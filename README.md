@@ -4,5 +4,5 @@ Add to Home screen (or A2HS for short) is a feature available in modern browsers
 ## Demo
   https://holamtruong.github.io/a2hs/
 
-![]https://github.com/holamtruong/a2hs/blob/master/icon/Untitled.png?raw=true)
+![](https://github.com/holamtruong/a2hs/blob/master/icon/Untitled.png?raw=true)
 ![](https://github.com/holamtruong/a2hs/blob/master/icon/capture.PNG?raw=true)
